@@ -10,7 +10,7 @@ I have lived both in urban and a rural environment.  For the first few years of 
 
 But there are plenty of disadvantages as well with urban life.  For one, you get suspicious of those who are nice to you.  It is simply strange to talk to strangers because there is lack of trust for people in general.  This can make it harder to connect and participate in your community.
 
-![](/images/garfield.jpg)
+<img src="/images/garfield.jpg" alt="Smiley face" height="200" width="200">
 
 On the flip-side, it is easy to find others who have similar interests due to the higher number of clubs and organizations.  
 
