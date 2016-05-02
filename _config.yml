@@ -10,11 +10,10 @@ url: "http://jeremyrunyan.me"
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: googlebot42
 github_username:  GoogleBot42
 disqus_shortname: jeremyrunyan-me
 #favicon:     "/images/favicon.ico"
-aboutme: Hello, I am Jeremy Runyan. This is my website and blog. It is relatively new so there isn't much here yet."
+aboutme: "Hello, you have reached the blog of an opinionated computer science major studying at <a HREF=\"www.colostate.edu\">CSU</a>. I am a brony, ham radio operator, arch linux fanatic, and am probably not as funny as I think I am. I write about computers, ponies, and social problems."
 aboutme_photo: /images/me.jpg # your photo.
 
 
